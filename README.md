@@ -2,7 +2,7 @@
 Criação automatizada de vários gráficos a partir de um documento .xlsx.
 
 '''
-Autor: Luiz Fernando Antonelli Galati
+Autor: Luiz Fernando Antonelli Galati,
 Jul/2023
 '''
 
